@@ -4,8 +4,7 @@ from configparser import ConfigParser
 from urllib import request
 import json as convert
 
-#Student Name: Varij Rughani
-#Student Number: c0804317
+#Name: Varij Rughani
 
 url='http://api.openweathermap.org/data/2.5/weather?q={}&appid={}'
 
